@@ -4,8 +4,8 @@
 <script type="text/javascript"> 
 document.getElementById('contact').className = "active";
 </script>
-<!--<img class="img-rounded img-responsive" width="100%" src="{{ secure_asset('img/contactez_nous.jpg') }}" alt="contactez_nous">-->
-<img class="img-rounded img-responsive" width="100%" src="{{ asset('img/contactez_nous.jpg') }}" alt="contactez_nous">
+<img class="img-rounded img-responsive" width="100%" src="{{ secure_asset('img/contactez_nous.jpg') }}" alt="contactez_nous">
+<!--<img class="img-rounded img-responsive" width="100%" src="{{ asset('img/contactez_nous.jpg') }}" alt="contactez_nous">-->
 <hr />
 <div class="row">
 	<aside class="col-sm-5">
