@@ -5,7 +5,7 @@
 document.getElementById('propos').className = "active";
 </script>
 <section class="row well">
-	<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ secure_asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">
+	<img margin-bottom: 10px" class="img-rounded img-responsive" src="{{ secure_asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">
 	<!--<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">-->
 	<aside class="col-sm-6 col-sm-offset-3" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 25px">
 		<p><strong>ZeCOURSIER</strong> est une auto-entreprenariat, son rôle principal est <strong>le stockage</strong> et <strong>la livraison à domicile</strong>, ainsi vous pouvez <strong>suivre l'état de vos colis</strong> que ça soit une marchandise, produit, ..., etc.</p>

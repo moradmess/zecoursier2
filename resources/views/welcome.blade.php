@@ -53,7 +53,9 @@ $(function () {
  <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
 </section>
 <aside class="col-sm-7">
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzecoursier.officiel%2Fvideos%2F2588580877915913%2F&show_text=0&width=560" scrolling="no" frameborder="0" height="470" allowTransparency="true" allowFullScreen="true" style="width: 100%;border: none;overflow: hidden;"></iframe>
+    <!--<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzecoursier.officiel%2Fvideos%2F2588580877915913%2F&show_text=0&width=560" scrolling="no" frameborder="0" height="470" allowTransparency="true" allowFullScreen="true" style="width: 100%;border: none;overflow: hidden;"></iframe>-->
+    <iframe src="https://www.youtube.com/watch?v=O6lo1VZFJaA&list=PLRj7zwzkPSWR0EGrP_oIbLYTDbe4zhaVI" style="width: 100%;border: none;overflow: hidden;"></iframe>
+
 </aside>    
 </div>
 <div class="row visible-sm">
