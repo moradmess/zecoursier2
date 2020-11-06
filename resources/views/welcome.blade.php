@@ -54,7 +54,7 @@ $(function () {
 </section>
 <aside class="col-sm-7">
     <!--<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzecoursier.officiel%2Fvideos%2F2588580877915913%2F&show_text=0&width=560" scrolling="no" frameborder="0" height="470" allowTransparency="true" allowFullScreen="true" style="width: 100%;border: none;overflow: hidden;"></iframe>-->
-    <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/O6lo1VZFJaA?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/O6lo1VZFJaA?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </aside>    
 </div>
