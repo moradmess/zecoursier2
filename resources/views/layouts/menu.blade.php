@@ -4,20 +4,20 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!--<link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ secure_asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap-social.css') }}">
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
-  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>-->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/logo.jpg') }}">
+  <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
+  <!--<link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-social.css') }}">
   <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
-  <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+  <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>-->
   <title>ZeCOURSIER</title>
   <style type="text/css">
 
@@ -148,7 +148,7 @@
     <div class="col-md-4 col-sm-8" id="footer_description">
     
     <!--<img style="opacity: 0.7;" src="{{ secure_asset('img/logo.jpg') }}" height="40" height="40" class="center-block">-->
-    <img src="{{ asset('img/Fouter-Logo.png') }}" height="60" alt="logoZeCOURSIER" style="margin-bottom: 5px">
+    <img src="{{ secure_asset('img/Fouter-Logo.png') }}" height="60" alt="logoZeCOURSIER" style="margin-bottom: 5px">
     <p id="description" style="color: rgba(255,255,255,0.5);">Cher e-commerial, ZeCOURSIER est pour vous, un choix qui vous met en oeuvre une certaine rapidité, souplesse et honnêteté de vos demandes et vos stocks</p>
      <p id="footer_social_media" style="text-align: center;" class="col-xs-12">
     <a href="https://www.facebook.com/zecoursier.officiel/" onclick="window.open(this.href); return false;"><span class="fa fa-facebook"></span></a>
