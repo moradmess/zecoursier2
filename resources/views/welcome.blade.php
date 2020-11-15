@@ -19,15 +19,15 @@ $(function () {
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img style="width: 100%" src="{{ secure_asset('img/slider-1-1.jpg') }}" alt="slider1">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-1.jpg') }}" alt="slider1">
      <!-- <img style="width: 100%" src="{{ asset('img/slider-1-1.jpg') }}" alt="slider1">-->
     </div>
     <div class="item">
-      <img style="width: 100%" src="{{ secure_asset('img/slider-2-2.jpg') }}" alt="slider2">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-2.jpg') }}" alt="slider2">
       <!--<img style="width: 100%" src="{{ asset('img/slider-2-2.jpg') }}" alt="slider2">-->
     </div>
     <div class="item">
-      <img style="width: 100%" src="{{ secure_asset('img/slider-3-3.jpg') }}" alt="slider3">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-3.jpg') }}" alt="slider3">
      <!-- <img style="width: 100%" src="{{ asset('img/slider-3-3.jpg') }}" alt="slider3">-->
     </div>
   </div>
@@ -47,7 +47,7 @@ $(function () {
 
 <div class="row">
 <section class="col-sm-5" style="font-size: 1.2em;">
-  <p><strong>ZeCOURSIER</strong>, une auto-entreprenariat, basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à Fès aussi à ses environs</p>
+  <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à Fès aussi à ses environs</p>
     <p>Zakaria Elmesoudy, le créateur de <strong>ZeCOURSIER</strong> un jeune entrepreneur qui habite à la ville de Fes, motivé. J'ai toujours l'ambition de rendre mon service le plus bon possible, et de travailler sur les lacunes et les défauts afin de satisfaire nos clients.</p>
  <img class="hidden-sm img-responsive img-rounded" src="{{ secure_asset('img/banner1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">
  <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
@@ -62,6 +62,13 @@ $(function () {
   <img class="img-responsive img-rounded center-block" src="{{ secure_asset('img/banner1.jpg') }}" alt="banner1">
  <!-- <img class="img-responsive img-rounded center-block" src="{{ asset('img/banner1.jpg') }}" alt="banner1">-->
 </div>
+<hr />
+
+<div class="row">
+  <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 40px;">Notre réseau service</h1>
+  <img src="{{ secure_asset('img/ville-de-livraison.png') }}" class="img-responsive center-block img-rounded" alt="banner2">
+</div>
+
 <hr />
 
 <div class="row">

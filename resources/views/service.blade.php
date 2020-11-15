@@ -4,9 +4,42 @@
 <script type="text/javascript"> 
 document.getElementById('service').className = "active";
 </script>
-	<img class="img-rounded img-responsive" width="100%" src="{{ secure_asset('img/nos_service.jpg') }}" alt="Service">
-	<!--<img class="img-rounded img-responsive center-block" width="100%" src="{{ asset('img/nos_service.jpg') }}" alt="service">-->
+	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-1.jpg') }}" alt="slider1">
+     <!-- <img style="width: 100%" src="{{ asset('img/slider-1-1.jpg') }}" alt="slider1">-->
+    </div>
+    <div class="item">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-2.jpg') }}" alt="slider2">
+      <!--<img style="width: 100%" src="{{ asset('img/slider-2-2.jpg') }}" alt="slider2">-->
+    </div>
+    <div class="item">
+      <img style="width: 100%" src="{{ secure_asset('img/slider-3.jpg') }}" alt="slider3">
+     <!-- <img style="width: 100%" src="{{ asset('img/slider-3-3.jpg') }}" alt="slider3">-->
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 	<hr />
+
 	<div class="row" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 20px">
 		<p class="col-sm-6 col-sm-offset-3">Nos services sont caractérisés par la sécurité avec une culture de l'innovation visée sur la rapidité et l'excellence.<br />En plus vous garantissez une livraison de toute qualité, et donc vous n'inquiétez pas d'essayer de rapprocher de nos services <strong>ZeCOURSIER</strong>.</p>
 	</div>

@@ -8,7 +8,7 @@ document.getElementById('propos').className = "active";
 	<img margin-bottom: 10px" class="img-rounded img-responsive" src="{{ secure_asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">
 	<!--<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">-->
 	<aside class="col-sm-6 col-sm-offset-3" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 25px">
-		<p><strong>ZeCOURSIER</strong> est une auto-entreprenariat, son rôle principal est <strong>le stockage</strong> et <strong>la livraison à domicile</strong>, ainsi vous pouvez <strong>suivre l'état de vos colis</strong> que ça soit une marchandise, produit, ..., etc.</p>
+		<p><strong>ZeCOURSIER</strong> est un service, son rôle principal est <strong>le stockage</strong> et <strong>la livraison à domicile</strong>, ainsi vous pouvez <strong>suivre l'état de vos colis</strong> que ça soit une marchandise, produit, ..., etc.</p>
 	<p>Donc si vous  êtes un e-commercial ou commercial chargé des demandes sur internet de votre client à domicile, vous n'hésitez pas à choisir notre service. <strong>ZeCOURSIER</strong> est le bon choix pour vous, et nous aurons de la fierté de vous servir.</p>
 	</aside>
 </section>
@@ -16,7 +16,7 @@ document.getElementById('propos').className = "active";
 <div class="row">
 	<aside class="col-md-10 col-md-offset-1">
 		<div class="panel panel-default" style="text-align: center;">
-	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Gérant / Livreur</div>
+	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Gérant</div>
   		<div class="panel-body">
     	<div class="thumbnail">
       	<img class="img-circle" width="120" src="{{ secure_asset('img/gerant.jpg') }}" alt="gérant">
@@ -50,7 +50,7 @@ document.getElementById('propos').className = "active";
 	</aside>
 	<aside class="col-md-5 col-sm-6">
 		<div class="panel panel-default" style="text-align: center;">
-	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Livreur</div>
+	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Manager</div>
   		<div class="panel-body">
     	<div class="thumbnail">
       	<img class="img-circle" width="120" src="{{ secure_asset('img/livreur1.jpg') }}" alt="livreur">
