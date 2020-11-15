@@ -47,7 +47,7 @@ $(function () {
 
 <div class="row">
 <section class="col-sm-5" style="font-size: 1.2em;">
-  <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à Fès aussi à ses environs</p>
+  <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à des différentes villes au Maroc</p>
     <p>Zakaria Elmesoudy, le créateur de <strong>ZeCOURSIER</strong> un jeune entrepreneur qui habite à la ville de Fes, motivé. J'ai toujours l'ambition de rendre mon service le plus bon possible, et de travailler sur les lacunes et les défauts afin de satisfaire nos clients.</p>
  <img class="hidden-sm img-responsive img-rounded" src="{{ secure_asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">
  <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
