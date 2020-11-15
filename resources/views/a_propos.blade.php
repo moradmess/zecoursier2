@@ -6,12 +6,12 @@ document.getElementById('propos').className = "active";
 </script>
 <img margin-bottom: 10px" class="img-rounded img-responsive center-block" src="{{ secure_asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">
   <!--<img margin-bottom: 10px" width="100%" class="img-rounded img-responsive" src="{{ asset('img/zecoursier_logo.jpg') }}" alt="ZeCoursier">-->
-<section class="row" style="margin-top: 40px">
-	<aside class="col-sm-6 col-sm-offset-3 well" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 25px">
+<div class="row well" style="margin-top: 30px">
+	<aside class="col-sm-6 col-sm-offset-3" style="text-align: justify; text-align-last: center;font-size: 1.4em;margin-top: 25px">
 		<p><strong>ZeCOURSIER</strong> est un service, son rôle principal est <strong>le stockage</strong> et <strong>la livraison à domicile</strong>, ainsi vous pouvez <strong>suivre l'état de vos colis</strong> que ça soit une marchandise, produit, ..., etc.</p>
 	<p>Donc si vous  êtes un e-commercial ou commercial chargé des demandes sur internet de votre client à domicile, vous n'hésitez pas à choisir notre service. <strong>ZeCOURSIER</strong> est le bon choix pour vous, et nous aurons de la fierté de vous servir.</p>
 	</aside>
-</section>
+</div>
 <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 30px;margin-top: 30px">EQUIPE DE ZeCOURSIER</h1>
 <div class="row">
 	<aside class="col-md-10 col-md-offset-1">
