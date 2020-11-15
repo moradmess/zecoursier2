@@ -65,8 +65,8 @@ $(function () {
 <hr />
 
 <div class="row">
-  <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 40px;">Notre réseau service</h1>
-  <img src="{{ secure_asset('img/ville-de-livraison.png') }}" class="img-responsive center-block img-rounded" alt="banner2">
+  <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 40px;">NOS RÉSEAU SERVICE</h1>
+  <img src="{{ secure_asset('img/ville-de-livraison.png') }}" class="img-responsive center-block img-rounded" alt="ville-de-livraison">
 </div>
 
 <hr />
