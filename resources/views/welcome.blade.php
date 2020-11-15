@@ -20,15 +20,15 @@ $(function () {
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img style="width: 100%" src="{{ secure_asset('img/slider-1.jpg') }}" alt="slider1">
-     <!-- <img style="width: 100%" src="{{ asset('img/slider-1-1.jpg') }}" alt="slider1">-->
+     <!-- <img style="width: 100%" src="{{ asset('img/slider-1.jpg') }}" alt="slider1">-->
     </div>
     <div class="item">
       <img style="width: 100%" src="{{ secure_asset('img/slider-2.jpg') }}" alt="slider2">
-      <!--<img style="width: 100%" src="{{ asset('img/slider-2-2.jpg') }}" alt="slider2">-->
+      <!--<img style="width: 100%" src="{{ asset('img/slider-2.jpg') }}" alt="slider2">-->
     </div>
     <div class="item">
       <img style="width: 100%" src="{{ secure_asset('img/slider-3.jpg') }}" alt="slider3">
-     <!-- <img style="width: 100%" src="{{ asset('img/slider-3-3.jpg') }}" alt="slider3">-->
+     <!-- <img style="width: 100%" src="{{ asset('img/slider-3.jpg') }}" alt="slider3">-->
     </div>
   </div>
 
@@ -49,8 +49,8 @@ $(function () {
 <section class="col-sm-5" style="font-size: 1.2em;">
   <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à Fès aussi à ses environs</p>
     <p>Zakaria Elmesoudy, le créateur de <strong>ZeCOURSIER</strong> un jeune entrepreneur qui habite à la ville de Fes, motivé. J'ai toujours l'ambition de rendre mon service le plus bon possible, et de travailler sur les lacunes et les défauts afin de satisfaire nos clients.</p>
- <img class="hidden-sm img-responsive img-rounded" src="{{ secure_asset('img/banner1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">
- <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
+ <img class="hidden-sm img-responsive img-rounded" src="{{ secure_asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">
+ <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
 </section>
 <aside class="col-sm-7">
     <!--<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzecoursier.officiel%2Fvideos%2F2588580877915913%2F&show_text=0&width=560" scrolling="no" frameborder="0" height="470" allowTransparency="true" allowFullScreen="true" style="width: 100%;border: none;overflow: hidden;"></iframe>-->
@@ -59,8 +59,8 @@ $(function () {
 </aside>    
 </div>
 <div class="row visible-sm">
-  <img class="img-responsive img-rounded center-block" src="{{ secure_asset('img/banner1.jpg') }}" alt="banner1">
- <!-- <img class="img-responsive img-rounded center-block" src="{{ asset('img/banner1.jpg') }}" alt="banner1">-->
+  <img class="img-responsive img-rounded center-block" src="{{ secure_asset('img/banner1-1.jpg') }}" alt="banner1">
+ <!-- <img class="img-responsive img-rounded center-block" src="{{ asset('img/banner1-1.jpg') }}" alt="banner1">-->
 </div>
 <hr />
 
@@ -133,8 +133,8 @@ $(function () {
    </div> 
    <br />
    <section class="row">
-        <img src="{{ secure_asset('img/banner2.jpg') }}" class="img-responsive center-block img-rounded" alt="banner2">
-       <!-- <img src="{{ asset('img/banner2.jpg') }}" class="img-responsive img-rounded center-block" alt="banner2">-->
+        <img src="{{ secure_asset('img/banner2-2.jpg') }}" class="img-responsive center-block img-rounded" alt="banner2">
+       <!-- <img src="{{ asset('img/banner2-2.jpg') }}" class="img-responsive img-rounded center-block" alt="banner2">-->
    </section>
 
 @endsection
