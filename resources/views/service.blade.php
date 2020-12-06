@@ -51,7 +51,7 @@ document.getElementById('service').className = "active";
   		<div class="panel-body">
   			<img style="width: 50%" src="{{ secure_asset('img/ramassages.jpg') }}">
   			<!--<img style="width: 50%" src="{{ asset('img/ramassages.jpg') }}">-->
-    	<p style="font-size: 1.2em;">Nous pouvons déplacer chez vous dans n'importe quelle place à Fès et les environs afin de ramasser vos colis</p>
+    	<p style="font-size: 1.2em;">Nous pouvons déplacer chez vous dans des plusieurs sites au Maroc afin de ramasser vos colis</p>
   		</div>
 		</div>
 	</aside>
@@ -61,7 +61,7 @@ document.getElementById('service').className = "active";
   		<div class="panel-body">
   		<img style="width: 50%" src="{{ secure_asset('img/livraisons.jpg') }}">
   		<!--<img style="width: 50%" src="{{ asset('img/livraisons.jpg') }}">-->
-    	<p style="font-size: 1.2em;">ZeCOURSIER est à la disposition de tous les e-commerciaux, 24h/24 et 7j/7 pour livrer tous ce que vous voulez dans Fès et les environs</p>
+    	<p style="font-size: 1.2em;">ZeCOURSIER est à la disposition de tous les e-commerciaux, 24h/24 et 7j/7 pour livrer tous ce que vous voulez</p>
   		</div>
 		</div>
 	</aside>

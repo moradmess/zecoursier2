@@ -48,14 +48,13 @@ $(function () {
 <div class="row">
   <h1 style="text-align: center;font-weight: bold;color: rgb(50,50,50);margin-bottom: 40px;">PRÉSENTATION</h1>
 <section class="col-sm-5" style="font-size: 1.2em;">
-  <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que soient des marchandises, des pièces,des documents,..., à des différentes villes au Maroc</p>
+  <p><strong>ZeCOURSIER</strong>, un service basée sur <strong>la livraison à domicile</strong> rapide de vos demandes que ça soient des marchandises, des pièces,des documents,..., à des différentes villes au Maroc</p>
     <p>Zakaria Elmesoudy, le créateur de <strong>ZeCOURSIER</strong> un jeune entrepreneur qui habite à la ville de Fes, motivé. J'ai toujours l'ambition de rendre mon service le plus bon possible, et de travailler sur les lacunes et les défauts afin de satisfaire nos clients.</p>
  <img class="hidden-sm img-responsive img-rounded" src="{{ secure_asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">
  <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
 </section>
 <aside class="col-sm-7">
-    <!--<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzecoursier.officiel%2Fvideos%2F2588580877915913%2F&show_text=0&width=560" scrolling="no" frameborder="0" height="470" allowTransparency="true" allowFullScreen="true" style="width: 100%;border: none;overflow: hidden;"></iframe>-->
-    <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/O6lo1VZFJaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/VSLJPcSsfPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </aside>    
 </div>
