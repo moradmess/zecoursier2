@@ -149,7 +149,7 @@
     
     <!--<img style="opacity: 0.7;" src="{{ secure_asset('img/logo.jpg') }}" height="40" height="40" class="center-block">-->
     <img src="{{ secure_asset('img/Fouter-Logo.png') }}" height="60" alt="logoZeCOURSIER" style="margin-bottom: 5px">
-    <p id="description" style="color: rgba(255,255,255,0.5);">Cher e-commerial, ZeCOURSIER est pour vous, un choix qui vous met en oeuvre une certaine rapidité, souplesse et honnêteté de vos demandes et vos stocks</p>
+    <p id="description" style="color: rgba(255,255,255,0.5);">Cher e-commerial, ZeCOURSIER est pour vous, un choix qui vous mettez en oeuvre une certaine rapidité, souplesse et honnêteté de vos demandes et vos stocks</p>
      <p id="footer_social_media" style="text-align: center;" class="col-xs-12">
     <a href="https://www.facebook.com/zecoursier.officiel/" onclick="window.open(this.href); return false;"><span class="fa fa-facebook"></span></a>
       <a href="https://www.youtube.com/channel/UCiqsOSIEBjQv9kSAI_NwN8Q" onclick="window.open(this.href); return false;"><span class="fa fa-youtube" style="margin-left: 2em"></span></a>
