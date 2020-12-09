@@ -54,7 +54,7 @@ $(function () {
  <!--<img class="hidden-sm img-responsive img-rounded" src="{{ asset('img/banner1-1.jpg') }}" style="width:100%;margin-bottom: 15px;" alt="banner1">-->
 </section>
 <aside class="col-sm-7">
-  <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/VSLJPcSsfPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="width: 100%;" height="470" src="https://www.youtube.com/embed/CfEKn-xSUsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </aside>    
 </div>
