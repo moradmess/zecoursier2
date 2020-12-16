@@ -5,7 +5,7 @@
 document.getElementById('service').className = "active";
 </script>
 	<div class="row">
-  <iframe style="width: 100%" height="500" src="https://www.youtube.com/embed/9jo0w4bA2VU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="width: 96%" height="500" src="https://www.youtube.com/embed/9jo0w4bA2VU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	<hr />
 
