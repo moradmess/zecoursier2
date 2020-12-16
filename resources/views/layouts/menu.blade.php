@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="ZeCOURSIER un service à base de Fes, son rôle principal est la livraison à domicile de vos demandes (marchandises, pièces,documents,...) à des différentes sites au Maroc">
+  <meta name="description" content="ZeCOURSIER un service de la livraison à domicile de vos demandes et stockage dans des différentes sites au Maroc">
   <meta name="keywords" content="zecoursier, coursier, livreur fes, livreur, livraison au Maroc">
   <meta name="author" content="Zakaria Elmesoudy">
   <meta name="viewport" content="width=device-width, initial-scale=1">

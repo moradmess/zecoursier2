@@ -38,8 +38,8 @@ document.getElementById('propos').className = "active";
 	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Développeur</div>
   		<div class="panel-body">
     	<div class="thumbnail">
-      	<img class="img-circle" width="120" src="{{ secure_asset('img/livreur3.jpg') }}" alt="développeur">
-      	<!--<img class="img-circle" width="120" src="{{ asset('img/livreur3.jpg') }}" alt="développeur">-->
+      	<img class="img-circle" width="120" src="{{ secure_asset('img/developpeur.jpg') }}" alt="développeur">
+      	<!--<img class="img-circle" width="120" src="{{ asset('img/developpeur.jpg') }}" alt="développeur">-->
       	<div class="caption">
         <h3>MORAD</h3>
         <p style="font-size: 1.2em;">Jeune homme âgé de 25 ans, ingénieur d'Etat, motivé, honnête, il cherche toujours à perfectionner la qualité du site, et fixer les problèmes qui peuvent briser son bon fonctionnement</p>
@@ -53,8 +53,8 @@ document.getElementById('propos').className = "active";
 	    <div class="panel-heading" style="font-size: 1.2em;font-weight: bold;">Manager</div>
   		<div class="panel-body">
     	<div class="thumbnail">
-      	<img class="img-circle" width="120" src="{{ secure_asset('img/livreur1.jpg') }}" alt="livreur">
-      	<!--<img class="img-circle" width="120" src="{{ asset('img/livreur1.jpg') }}" alt="livreur">-->
+      	<img class="img-circle" width="120" src="{{ secure_asset('img/manager.jpg') }}" alt="livreur">
+      	<!--<img class="img-circle" width="120" src="{{ asset('img/manager.jpg') }}" alt="livreur">-->
       	<div class="caption">
         <h3>SAMIR</h3>
         <p style="font-size: 1.2em;">Jeune homme âgé de 27 ans, titulaire de la licence en psychologie, ait des connaissances sur le vente et la livraison à domicile, motivé, honnête et il cherche à améliorer la façon de travail, de parler et d'agir</p>
