@@ -2,8 +2,11 @@
 
 @section('content')
 <script type="text/javascript"> 
-document.getElementById('act').className = "active";
+document.getElementById('actualite').className = "active";
 </script>
+<div class="row">
+	<h2>hello</h2>
+</div>
 <!--<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v9.0" nonce="eWLgnXfP"></script>
 
 <div class="row">

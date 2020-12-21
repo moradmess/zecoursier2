@@ -138,7 +138,7 @@
         <li id="propos"><a href="{{ url('/apropos') }}">À PROPOS</a></li>
         <li id="service"><a href="{{ url('/service') }}">NOS SERVICES</a></li>
         <li id="contact"><a href="{{ url('/contact') }}">CONTACTEZ-NOUS</a></li>
-        <li id="act"><a href="{{ url('/actualite') }}">ACTUALITÉ</a></li>
+        <li id="actualite"><a href="{{ url('/actualite') }}">ACTUALITÉ</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
