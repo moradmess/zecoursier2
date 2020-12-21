@@ -138,7 +138,7 @@
         <li id="propos"><a href="{{ url('/apropos') }}">À PROPOS</a></li>
         <li id="service"><a href="{{ url('/service') }}">NOS SERVICES</a></li>
         <li id="contact"><a href="{{ url('/contact') }}">CONTACTEZ-NOUS</a></li>
-        <li id="actualite"><a href="{{ url('/actualite') }}">ACTUALITÉ</a></li>
+        <li id="actualite"><a href="{{ url('/actualite') }}">NOS ACTUALITÉS</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
@@ -163,8 +163,9 @@
     <p style="font-weight: bold;color: rgba(255,255,255,0.7);">LIENS</p>
     <p><a href="{{ url('/') }}">Accueil</a><br />
     <a href="{{ url('/apropos') }}">À propos</a><br />
-    <a href="{{ url('/service') }}">Nos Services</a><br />
-    <a href="{{ url('/contact') }}">Contactez-nous</a></p>
+    <a href="{{ url('/service') }}">Nos services</a><br />
+    <a href="{{ url('/contact') }}">Contactez-nous</a><br />
+    <a href="{{ url('/actualite') }}">Nos actualités</a></p>
     </div>
     <div class="col-md-2 col-sm-4" id="footer_rejoigner">
     <p style="font-weight: bold;color: rgba(255,255,255,0.7);">REJOIGNEZ NOUS</p>
