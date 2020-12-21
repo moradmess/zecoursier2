@@ -14,8 +14,6 @@
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <script src="{{ secure_asset('assets/js/jquery.min.js') }}"></script>
   <script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
-  <div id="fb-root"></div>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v9.0" nonce="eWLgnXfP"></script>
   <!--<link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/logo.jpg') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-social.css') }}">
